@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="autoproschool.testclass.TC12verifyActiveToInactivecourse"/>
+      <class name="autoproschool.testclass.TC02SignupFunctionality"/>
+      <class name="autoproschool.testclass.TC05SetupProfileFunctionality"/>
+      <class name="autoproschool.testclass.TC06VerifyAnalyticsForLesson"/>
+      <class name="autoproschool.testclass.TC09TeacherAiAssistantProfileEditing"/>
+      <class name="autoproschool.testclass.TC10TeacherFileUploading"/>
+      <class name="autoproschool.testclass.TC11LogoutFucntinality"/>
+      <class name="autoproschool.testclass.TC03HomepageFuntionality1"/>
+      <class name="autoproschool.testclass.TC02LoginFunctionality"/>
+      <class name="autoproschool.testclass.TC07VerifyAnalyticsForAssignment"/>
+      <class name="autoproschool.testclass.TC13verifyInactivetoactivecourse"/>
+      <class name="autoproschool.testclass.TC14verifyInviteCourseforStudent"/>
+      <class name="autoproschool.testclass.TC08TeacherProfileEditing"/>
+      <class name="autoproschool.testclass.TC04CreateCoursePageFunctionality"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

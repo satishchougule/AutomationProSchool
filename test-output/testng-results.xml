@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-04T12:19:06 IST" name="Default suite" finished-at="2024-05-04T12:19:37 IST" duration-ms="31498">
+    <groups>
+    </groups>
+    <test started-at="2024-05-04T12:19:06 IST" name="Default test" finished-at="2024-05-04T12:19:37 IST" duration-ms="31498">
+      <class name="autoproschool.testclass.TC02LoginFunctionality">
+        <test-method is-config="true" signature="setup()[pri:0, instance:autoproschool.testclass.TC02LoginFunctionality@3cebbb30]" started-at="2024-05-04T12:19:06 IST" name="setup" finished-at="2024-05-04T12:19:24 IST" duration-ms="18066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VeriyingFunctionality()[pri:0, instance:autoproschool.testclass.TC02LoginFunctionality@3cebbb30]" started-at="2024-05-04T12:19:24 IST" name="VeriyingFunctionality" finished-at="2024-05-04T12:19:37 IST" duration-ms="13372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VeriyingFunctionality -->
+      </class> <!-- autoproschool.testclass.TC02LoginFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
